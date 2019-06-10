@@ -85,7 +85,7 @@ $cakeDescription = 'AdminLTE Test';
             <div class="pull-right hidden-xs">
                 <b>Version</b> 2.4.0
             </div>
-            <strong>CakePHP AdminLTE Page <a href="https://adminlte.io">AdminLTE Site</a>.</strong> All rights
+            <strong>CakePHP AdminLTE Page <a target="_blank" href="https://adminlte.io">AdminLTE Site</a>.</strong> All rights
             reserved.
         </footer>
 
